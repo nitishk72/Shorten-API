@@ -32,6 +32,6 @@ Database Name ShortenURL
 
 ## Authors
 
-* **Nitish Kumar Singh** - *Portfolio* - [PurpleBooth](https://nitishk72.github.io)
+* **Nitish Kumar Singh** - *Portfolio* - [Nitish](https://nitishk72.github.io)
 
 See also the list of [contributors](https://github.com/nitishk72/Shorten-API/contributors) who participated in this project.
