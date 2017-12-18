@@ -50,7 +50,7 @@ exports.update_a_task = function(req, res) {
       res.json(task);
   });
 };
-exports.delete_a_task = function(req, res) {
+exports.delete_short_url = function(req, res) {
   Task.remove({
     _id: req.params.id
   }, function(err, task) {
