@@ -1,0 +1,28 @@
+{
+  "name": "shorten-url",
+  "version": "1.0.0",
+  "description": "I am creating a API which will shorten any url.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Shorten",
+    "Shorten",
+    "URL",
+    "URL",
+    "Shorten",
+    "API",
+    "Shorten",
+    "API",
+    "URL",
+    "Shorten",
+    "API"
+  ],
+  "author": "Nitish Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
