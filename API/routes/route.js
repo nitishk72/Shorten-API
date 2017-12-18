@@ -24,5 +24,5 @@ module.exports = function(app) {
 
   app.route('/delete/:id')
     .get(shortenController.unAuthorise)
-    .post(shortenController.delete_a_task);
+    .post(shortenController.delete_short_url);
 };
